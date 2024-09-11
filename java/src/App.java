@@ -93,16 +93,16 @@ public class App {
 
 
 
-         double luku1, luku2, tulo;
-        luku1 = 5.0;
-        luku2 = 2.0;
-        tulo = luku1 + luku2;
+        //  double luku1, luku2, tulo;
+        // luku1 = 5.0;
+        // luku2 = 2.0;
+        // tulo = luku1 + luku2;
         
-        // System.out.println(luku1);
+        // // System.out.println(luku1);
         
-        System.out.println("Lukun1-muuttujan arvo on " + luku1);
-        System.out.println("Lukun2-muuttujan arvo on " + luku2);
-        System.out.print(luku1 + " + " + luku2 + " = " + tulo);
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        // System.out.print(luku1 + " + " + luku2 + " = " + tulo);
 
 
 
@@ -148,39 +148,38 @@ public class App {
         // System.out.println("Lukun1-muuttujan arvo on " + luku1);
         // System.out.println("Lukun2-muuttujan arvo on " + luku2);
         
-//         double luku1, luku2, tulo;
-//         luku1 = 5.0;
-//         luku2 = 2.0;
-//         tulo = luku1 * luku2;
+        double luku1, luku2, tulo;
+        luku1 = 5.0;
+        luku2 = 2.0;
+        tulo = luku1 * luku2;
         
-//         // System.out.println(luku1);
+        // System.out.println(luku1);
         
-//         System.out.println("Lukun1-muuttujan arvo on " + luku1);
-//         System.out.println("Lukun2-muuttujan arvo on " + luku2);
-//         System.out.println(luku1 + " * " + luku2 + " = " + tulo);
+        System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        System.out.println(luku1 + " * " + luku2 + " = " + tulo);
        
-
-       
-
-//     }
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.printf("%d * %d = %.2f",luku2,luku2, tulo );
        
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+    
 
 
 
