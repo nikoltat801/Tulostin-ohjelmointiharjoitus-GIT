@@ -61,17 +61,120 @@ public class App {
     
 
 
-        int luku1; 
-        int luku2;
-        int result;
-        luku1 = 6;
-        luku2 = 2;
-        result = luku1 / luku2;
-        //System.out.println(luku1);
+        // int luku1; 
+        // int luku2;
+        // int result;
+        // luku1 = 6;
+        // luku2 = 2;
+        // result = luku1 / luku2;
+        // //System.out.println(luku1);
+        
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        // System.out.print(luku1 + " / " + luku2 + " = " + result);
+
+
+
+
+
+
+                // double luku1, luku2, tulo;
+        // luku1 = 5.0;
+        // luku2 = 2.0;
+        // tulo = luku1 * luku2;
+        
+        // // System.out.println(luku1);
+        
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        // System.out.print(luku1 + " * " + luku2 + " = " + tulo);
+       
+
+
+
+
+         double luku1, luku2, tulo;
+        luku1 = 5.0;
+        luku2 = 2.0;
+        tulo = luku1 + luku2;
+        
+        // System.out.println(luku1);
         
         System.out.println("Lukun1-muuttujan arvo on " + luku1);
         System.out.println("Lukun2-muuttujan arvo on " + luku2);
-        System.out.print(luku1 + " / " + luku2 + " = " + result);
+        System.out.print(luku1 + " + " + luku2 + " = " + tulo);
+
+
+
+
+
+        // double luku1, luku2, tulo;
+        // luku1 = 5.0;
+        // luku2 = 2.0;
+        // tulo = luku1 - luku2;
+        
+        // // System.out.println(luku1);
+        
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        // System.out.print(luku1 + " - " + luku2 + " = " + tulo);
+
+
+
+        // double luku1, luku2, tulo;
+        // luku1 = 5.0;
+        // luku2 = 2.0;
+        // tulo = luku1 / luku2;
+        
+        // // System.out.println(luku1);
+        
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        // System.out.print(luku1 + " / " + luku2 + " = " + tulo);
+       
+
+
+        
+        // int luku1;
+        // int luku2;
+        // double tulos;
+
+        // luku1 = 5;
+        // luku2 = 2;
+        // tulos = luku1 * luku2;
+        
+        // // System.out.println(luku1);
+        
+        // System.out.println("Lukun1-muuttujan arvo on " + luku1);
+        // System.out.println("Lukun2-muuttujan arvo on " + luku2);
+        
+//         double luku1, luku2, tulo;
+//         luku1 = 5.0;
+//         luku2 = 2.0;
+//         tulo = luku1 * luku2;
+        
+//         // System.out.println(luku1);
+        
+//         System.out.println("Lukun1-muuttujan arvo on " + luku1);
+//         System.out.println("Lukun2-muuttujan arvo on " + luku2);
+//         System.out.println(luku1 + " * " + luku2 + " = " + tulo);
+       
+
+       
+
+//     }
+// }
+
+
+
+
+
+
+
+
+
+
+
 
 
        
